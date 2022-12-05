@@ -19,6 +19,8 @@ colocar em prática o que aprendemos nas autlas.
 Finalizado
 
 # Acesso ao Projeto
+* https://getulioramos.github.io/BarbeariaAlura/
+* https://barbearia-alura-lilac-seven.vercel.app/
 
 
 # Linguagens utilizadas
